@@ -1,0 +1,14 @@
+C:\Users\Huawei\Documents\GitHub\KFU3\KFU3\Tumakov4\bin\Debug\net7.0\Tumakov4.exe
+C:\Users\Huawei\Documents\GitHub\KFU3\KFU3\Tumakov4\bin\Debug\net7.0\Tumakov4.deps.json
+C:\Users\Huawei\Documents\GitHub\KFU3\KFU3\Tumakov4\bin\Debug\net7.0\Tumakov4.runtimeconfig.json
+C:\Users\Huawei\Documents\GitHub\KFU3\KFU3\Tumakov4\bin\Debug\net7.0\Tumakov4.dll
+C:\Users\Huawei\Documents\GitHub\KFU3\KFU3\Tumakov4\bin\Debug\net7.0\Tumakov4.pdb
+C:\Users\Huawei\Documents\GitHub\KFU3\KFU3\Tumakov4\obj\Debug\net7.0\Tumakov4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Huawei\Documents\GitHub\KFU3\KFU3\Tumakov4\obj\Debug\net7.0\Tumakov4.AssemblyInfoInputs.cache
+C:\Users\Huawei\Documents\GitHub\KFU3\KFU3\Tumakov4\obj\Debug\net7.0\Tumakov4.AssemblyInfo.cs
+C:\Users\Huawei\Documents\GitHub\KFU3\KFU3\Tumakov4\obj\Debug\net7.0\Tumakov4.csproj.CoreCompileInputs.cache
+C:\Users\Huawei\Documents\GitHub\KFU3\KFU3\Tumakov4\obj\Debug\net7.0\Tumakov4.dll
+C:\Users\Huawei\Documents\GitHub\KFU3\KFU3\Tumakov4\obj\Debug\net7.0\refint\Tumakov4.dll
+C:\Users\Huawei\Documents\GitHub\KFU3\KFU3\Tumakov4\obj\Debug\net7.0\Tumakov4.pdb
+C:\Users\Huawei\Documents\GitHub\KFU3\KFU3\Tumakov4\obj\Debug\net7.0\Tumakov4.genruntimeconfig.cache
+C:\Users\Huawei\Documents\GitHub\KFU3\KFU3\Tumakov4\obj\Debug\net7.0\ref\Tumakov4.dll
