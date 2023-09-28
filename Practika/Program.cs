@@ -1,7 +1,6 @@
 ﻿﻿using System;
-using System.Text.RegularExpressions;
 
-namespace CreativeDZ_23_09
+namespace Praktika
 {
     class Program
     {
@@ -141,7 +140,7 @@ namespace CreativeDZ_23_09
                 }
                 else if (number == 13)
                 {
-                    Console.WriteLine("наимнование карты: Король");
+                    Console.WriteLine("Наимнование карты: Король");
                 }
                 else if (number == 12)
                 {
@@ -153,17 +152,17 @@ namespace CreativeDZ_23_09
                 }
                 else
                 {
-                    Console.WriteLine($"Достоинство карты {number}");
+                    Console.WriteLine($"Достоинство карты: {number}");
                 }
             } catch (Exception)
             {
                 Console.WriteLine("Ошибка");
-                Console.WriteLine("Для продолженния нажмите Enter");
+                Console.WriteLine("Для продолжения нажмите Enter");
                 Console.ReadKey();
             }
             finally
             {
-                Console.WriteLine("Нажмите Enter");
+                Console.WriteLine("Для продолжения нажмите Enter");
                 Console.ReadKey();
             }
         }
