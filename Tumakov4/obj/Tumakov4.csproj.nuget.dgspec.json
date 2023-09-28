@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Huawei\\Documents\\GitHub\\KFU3\\KFU3\\Tumakov4\\Tumakov4.csproj": {}
+    "c:\\Users\\Huawei\\Documents\\GitHub\\KFU3\\KFU3\\Tumakov4\\Tumakov4.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Huawei\\Documents\\GitHub\\KFU3\\KFU3\\Tumakov4\\Tumakov4.csproj": {
+    "c:\\Users\\Huawei\\Documents\\GitHub\\KFU3\\KFU3\\Tumakov4\\Tumakov4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Huawei\\Documents\\GitHub\\KFU3\\KFU3\\Tumakov4\\Tumakov4.csproj",
+        "projectUniqueName": "c:\\Users\\Huawei\\Documents\\GitHub\\KFU3\\KFU3\\Tumakov4\\Tumakov4.csproj",
         "projectName": "Tumakov4",
-        "projectPath": "C:\\Users\\Huawei\\Documents\\GitHub\\KFU3\\KFU3\\Tumakov4\\Tumakov4.csproj",
+        "projectPath": "c:\\Users\\Huawei\\Documents\\GitHub\\KFU3\\KFU3\\Tumakov4\\Tumakov4.csproj",
         "packagesPath": "C:\\Users\\Huawei\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Huawei\\Documents\\GitHub\\KFU3\\KFU3\\Tumakov4\\obj\\",
+        "outputPath": "c:\\Users\\Huawei\\Documents\\GitHub\\KFU3\\KFU3\\Tumakov4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Huawei\\AppData\\Roaming\\NuGet\\NuGet.Config",
